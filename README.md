@@ -35,12 +35,12 @@ You can view and use the landing page at [noure.netlify.app](https://noure.netli
 3. Open index.html in your preferred web browser to view the landing page:
 
 ## Usage
-- **Customize the content by editing the HTML files.
-- **Adjust styles in the CSS files located in the styles directory.
-- **Modify or add JavaScript functionality in the scripts directory.
-- **Contributing
-- **Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
+- Customize the content by editing the HTML files.
+- Adjust styles in the CSS files located in the styles directory.
+- Modify or add JavaScript functionality in the scripts directory.
+- Contributing
+- Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
 ## License
-- **This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
   
