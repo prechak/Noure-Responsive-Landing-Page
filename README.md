@@ -1,5 +1,7 @@
 # Noure Coffee Landing Page
 
+![NOURE](img/Noure.png)
+
 ## Description
 
 This repository contains the source code for a responsive landing page for Noure Coffee. The landing page is built using native HTML, CSS, and JavaScript to ensure high performance and cross-browser compatibility. The design is optimized for various screen sizes, providing an excellent user experience on both desktop and mobile devices.
